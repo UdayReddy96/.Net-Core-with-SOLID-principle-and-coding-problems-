@@ -1,0 +1,15 @@
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Users\tuday\OneDrive\Desktop\Interview prep\.Net C#\MyProject\obj\Debug\net7.0\ref\MyProject.dll
